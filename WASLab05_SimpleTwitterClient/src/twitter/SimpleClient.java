@@ -8,11 +8,10 @@ import twitter4j.TwitterFactory;
 
 public class SimpleClient {
 
-
 	public static void main(String[] args) throws Exception {
 		
-		// The factory instance is re-useable and thread safe.
-		Twitter twitter = new TwitterFactory().getInstance();
+		final Twitter twitter = new TwitterFactory().getInstance();
+		
 		Date now = new Date();
 		String latestStatus = "I want to increase the Klout score of @cfarre [task #4 completed "+now+"]";
 		Status status = twitter.updateStatus(latestStatus);
