@@ -14,7 +14,7 @@ public class SimpleClient {
 		// The factory instance is re-useable and thread safe.
 		Twitter twitter = new TwitterFactory().getInstance();
 		Date now = new Date();
-		String latestStatus = "["+now+"] I want to increase the Klout score of @cfarre";
+		String latestStatus = "I want to increase the Klout score of @cfarre [task #4 completed "+now+"]";
 		Status status = twitter.updateStatus(latestStatus);
 		System.out.println("Successfully updated the status to: " + status.getText());       
 	}
