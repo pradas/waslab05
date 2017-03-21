@@ -13,13 +13,8 @@ public class SimpleClient {
 		
 		final Twitter twitter = new TwitterFactory().getInstance();
 		
-		//Date now = new Date();
 		ResponseList<Status> tweets = twitter.getUserTimeline("fib_was");
 		System.out.println(tweets.get(0).getText());
-		twitter.retweetStatus(tweets.get(0).getId());
-		
-		/*String latestStatus = "I want to increase the Klout score of @cfarre [task #4 completed "+now+"]";
-		Status status = twitter.updateStatus(latestStatus);
-		System.out.println("Successfully updated the status to: " + status.getText());*/       
+		twitter.retweetStatus(tweets.get(0).getId());   
 	}
 }
