@@ -1,1 +1,1096 @@
+HTTP/1.1 200 OK
 
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    899
+last-modified:
+    Tue, 21 Mar 2017 13:49:29 GMT
+status:
+    200 OK
+Content-Length:
+    2826
+x-response-time:
+    42
+Connection:
+    keep-alive
+x-transaction:
+    009ed80d00f8660c
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    68c19d8ca073ccb3f59864c614506e8e
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    900
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 21 Mar 2017 13:49:29 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A149010416954523181; Domain=.twitter.com; Path=/; Expires=Thu, 21-Mar-2019 13:49:29 UTC
+x-rate-limit-reset:
+    1490105069
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 314408213,
+    "id_str": "314408213",
+    "name": "Emil Ahangarzadeh",
+    "screen_name": "Ahangarzadeh",
+    "location": "San Diego County, CA",
+    "description": "There are no political solutions. Only technological ones. Everything else is propoganda. #tech #entertainment #cybernetics #education #leadership",
+    "url": "https://t.co/GnmklF0BLB",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GnmklF0BLB",
+            "expanded_url": "http://emilahangarzadeh.com",
+            "display_url": "emilahangarzadeh.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 13062,
+    "friends_count": 3914,
+    "listed_count": 641,
+    "created_at": "Fri Jun 10 06:22:57 +0000 2011",
+    "favourites_count": 474,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7428,
+    "lang": "en",
+    "status": {
+      "created_at": "Mon Mar 20 19:58:45 +0000 2017",
+      "id": 843914728632016900,
+      "id_str": "843914728632016896",
+      "text": "Waldorf vs. Montessori https://t.co/jRbut5hbCN #edleadership #edchat",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "edleadership",
+            "indices": [
+              47,
+              60
+            ]
+          },
+          {
+            "text": "edchat",
+            "indices": [
+              61,
+              68
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jRbut5hbCN",
+            "expanded_url": "http://blog.sgws.org/waldorf-vs-montessori/",
+            "display_url": "blog.sgws.org/waldorf-vs-mon…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "tl"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ED15CD",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/597290042843799552/R7Ix4qza.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/597290042843799552/R7Ix4qza.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/806969231338110976/ryrAMI4Y_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/806969231338110976/ryrAMI4Y_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/314408213/1398227159",
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  }
+]
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    897
+last-modified:
+    Tue, 21 Mar 2017 13:51:47 GMT
+status:
+    200 OK
+Content-Length:
+    4438
+x-response-time:
+    49
+Connection:
+    keep-alive
+x-transaction:
+    0079870100b9f807
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    cbc164f319bd79eb16b772262a651031
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    900
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 21 Mar 2017 13:51:47 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A149010430748031354; Domain=.twitter.com; Path=/; Expires=Thu, 21-Mar-2019 13:51:47 UTC
+x-rate-limit-reset:
+    1490105069
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 4924429943,
+    "id_str": "4924429943",
+    "name": "Graphcool",
+    "screen_name": "graphcool",
+    "location": "San Francisco/Berlin",
+    "description": "Flexible backend platform combining GraphQL + AWS Lambda. Setup a GraphQL backend in 5 minutes: https://t.co/6UAvx78Qgr Updates: @GraphcoolStatus",
+    "url": "https://t.co/0Rf5MRXOYd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/0Rf5MRXOYd",
+            "expanded_url": "http://graph.cool",
+            "display_url": "graph.cool",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/6UAvx78Qgr",
+            "expanded_url": "https://www.graph.cool",
+            "display_url": "graph.cool",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1031,
+    "friends_count": 1157,
+    "listed_count": 31,
+    "created_at": "Wed Feb 17 16:46:16 +0000 2016",
+    "favourites_count": 1073,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 202,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Mar 21 13:26:21 +0000 2017",
+      "id": 844178367347900400,
+      "id_str": "844178367347900418",
+      "text": "RT @VinSpee: I’ve been digging deeply into @graphcool recently. Amazing tool with great docs and community. This was helpful: https://t.co/…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VinSpee",
+            "name": "Vince Speelman",
+            "id": 14988794,
+            "id_str": "14988794",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "graphcool",
+            "name": "Graphcool",
+            "id": 4924429943,
+            "id_str": "4924429943",
+            "indices": [
+              43,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Mar 21 13:25:12 +0000 2017",
+        "id": 844178077496332300,
+        "id_str": "844178077496332288",
+        "text": "I’ve been digging deeply into @graphcool recently. Amazing tool with great docs and community. This was helpful: https://t.co/QZY8Vu4EJe",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "graphcool",
+              "name": "Graphcool",
+              "id": 4924429943,
+              "id_str": "4924429943",
+              "indices": [
+                30,
+                40
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/QZY8Vu4EJe",
+              "expanded_url": "https://www.graph.cool/docs/faq/flexibility-and-control-with-graphql-variables-thaexex7av/",
+              "display_url": "graph.cool/docs/faq/flexi…",
+              "indices": [
+                113,
+                136
+              ]
+            }
+          ]
+        },
+        "source": "<a href="http://tapbots.com/software/tweetbot/mac" rel="nofollow">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "2a236850175551f1",
+          "url": "https://api.twitter.com/1.1/geo/id/2a236850175551f1.json",
+          "place_type": "neighborhood",
+          "name": "Palmer Park",
+          "full_name": "Palmer Park, Detroit",
+          "country_code": "US",
+          "country": "Estados Unidos",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -83.142103,
+                  42.4171528
+                ],
+                [
+                  -83.105373,
+                  42.4171528
+                ],
+                [
+                  -83.105373,
+                  42.4465596
+                ],
+                [
+                  -83.142103,
+                  42.4465596
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/713707735649529856/vONHMN2f_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/713707735649529856/vONHMN2f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4924429943/1484833616",
+    "profile_link_color": "27AE60",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  }
+]
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    896
+last-modified:
+    Tue, 21 Mar 2017 13:52:05 GMT
+status:
+    200 OK
+Content-Length:
+    4072
+x-response-time:
+    123
+Connection:
+    keep-alive
+x-transaction:
+    00c460a2000c93b3
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    bbcfe6921c8a0011cb625fb61fe664a5
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    900
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 21 Mar 2017 13:52:05 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A149010432557940213; Domain=.twitter.com; Path=/; Expires=Thu, 21-Mar-2019 13:52:05 UTC
+x-rate-limit-reset:
+    1490105069
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 14718694,
+    "id_str": "14718694",
+    "name": "Ettore Murciano",
+    "screen_name": "emurciano",
+    "location": "",
+    "description": "Strategic Account Executive @LoopAILabs: Helping machines understand the human world via the unsupervised Loop Q, Cognitive Computing Platform.",
+    "url": "https://t.co/IuS0nLuMmQ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/IuS0nLuMmQ",
+            "expanded_url": "http://it.linkedin.com/in/ettoremurciano",
+            "display_url": "it.linkedin.com/in/ettoremurci…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6246,
+    "friends_count": 2776,
+    "listed_count": 219,
+    "created_at": "Fri May 09 22:06:59 +0000 2008",
+    "favourites_count": 11633,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2153,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Mar 21 13:29:42 +0000 2017",
+      "id": 844179211720036400,
+      "id_str": "844179211720036352",
+      "text": "RT @Lutechspa: Tech #CognitiveComputing e #MachineLearning per estrarre valore dai “dark data” #LutechAI #disruptive https://t.co/BUtFgpNWo…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "CognitiveComputing",
+            "indices": [
+              20,
+              39
+            ]
+          },
+          {
+            "text": "MachineLearning",
+            "indices": [
+              42,
+              58
+            ]
+          },
+          {
+            "text": "LutechAI",
+            "indices": [
+              95,
+              104
+            ]
+          },
+          {
+            "text": "disruptive",
+            "indices": [
+              105,
+              116
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lutechspa",
+            "name": "Lutech",
+            "id": 2151597338,
+            "id_str": "2151597338",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Mar 21 12:20:01 +0000 2017",
+        "id": 844161674970087400,
+        "id_str": "844161674970087424",
+        "text": "Tech #CognitiveComputing e #MachineLearning per estrarre valore dai “dark data” #LutechAI #disruptive… https://t.co/v3pnRYXACE",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "CognitiveComputing",
+              "indices": [
+                5,
+                24
+              ]
+            },
+            {
+              "text": "MachineLearning",
+              "indices": [
+                27,
+                43
+              ]
+            },
+            {
+              "text": "LutechAI",
+              "indices": [
+                80,
+                89
+              ]
+            },
+            {
+              "text": "disruptive",
+              "indices": [
+                90,
+                101
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/v3pnRYXACE",
+              "expanded_url": "https://twitter.com/i/web/status/844161674970087424",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "it"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "it"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3147914/Noci-Due.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3147914/Noci-Due.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/798794087805530113/MNvP9Xuo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/798794087805530113/MNvP9Xuo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14718694/1444852914",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "BBAC3E",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  }
+]
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    895
+last-modified:
+    Tue, 21 Mar 2017 13:52:29 GMT
+status:
+    200 OK
+Content-Length:
+    3801
+x-response-time:
+    129
+Connection:
+    keep-alive
+x-transaction:
+    00c6638000e3082f
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    02bbfc69c26fff68418e6dbcc53ed69b
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    900
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 21 Mar 2017 13:52:29 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A149010434970453367; Domain=.twitter.com; Path=/; Expires=Thu, 21-Mar-2019 13:52:29 UTC
+x-rate-limit-reset:
+    1490105069
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 2296341,
+    "id_str": "2296341",
+    "name": "Judit Nieto",
+    "screen_name": "juditnile",
+    "location": "Lliçà d'Amunt",
+    "description": "Software Engineer, fotografa amateur, geek, cuinetes, runner, adicta a viatjar, a la moda, als esports de raqueta, ... i força cul inquiet =)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 259,
+    "friends_count": 315,
+    "listed_count": 19,
+    "created_at": "Mon Mar 26 13:11:24 +0000 2007",
+    "favourites_count": 58,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7357,
+    "lang": "es",
+    "status": {
+      "created_at": "Mon Mar 20 17:29:40 +0000 2017",
+      "id": 843877212482887700,
+      "id_str": "843877212482887680",
+      "text": "RT @technladiesbcn: #DYK que @Tiendeo es uno de nuestros #awesomesponsors?Su CEO,@evavillaro presentará el workshop "Mobile trends in retai…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DYK",
+            "indices": [
+              20,
+              24
+            ]
+          },
+          {
+            "text": "awesomesponsors",
+            "indices": [
+              57,
+              73
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "technladiesbcn",
+            "name": "tech&ladiesbcn",
+            "id": 4893153245,
+            "id_str": "4893153245",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "Tiendeo",
+            "name": "Tiendeo",
+            "id": 192830614,
+            "id_str": "192830614",
+            "indices": [
+              29,
+              37
+            ]
+          },
+          {
+            "screen_name": "evavillaro",
+            "name": "Evavillaro",
+            "id": 220455714,
+            "id_str": "220455714",
+            "indices": [
+              81,
+              92
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Mar 20 11:25:05 +0000 2017",
+        "id": 843785462393311200,
+        "id_str": "843785462393311233",
+        "text": "#DYK que @Tiendeo es uno de nuestros #awesomesponsors?Su CEO,@evavillaro presentará el workshop "Mobile trends in retail" en #wtmbcn17",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "DYK",
+              "indices": [
+                0,
+                4
+              ]
+            },
+            {
+              "text": "awesomesponsors",
+              "indices": [
+                37,
+                53
+              ]
+            },
+            {
+              "text": "wtmbcn17",
+              "indices": [
+                125,
+                134
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Tiendeo",
+              "name": "Tiendeo",
+              "id": 192830614,
+              "id_str": "192830614",
+              "indices": [
+                9,
+                17
+              ]
+            },
+            {
+              "screen_name": "evavillaro",
+              "name": "Evavillaro",
+              "id": 220455714,
+              "id_str": "220455714",
+              "indices": [
+                61,
+                72
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href="http://www.hootsuite.com" rel="nofollow">Hootsuite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1120602320/IMG_47951-160_seg._en_f_-_5_0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120602320/IMG_47951-160_seg._en_f_-_5_0_normal.jpg",
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  }
+]
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    894
+last-modified:
+    Tue, 21 Mar 2017 13:52:48 GMT
+status:
+    200 OK
+Content-Length:
+    2590
+x-response-time:
+    90
+Connection:
+    keep-alive
+x-transaction:
+    00067d8d00a19eac
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    99e13c644daa4d6a4f7077aae498ba2d
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    900
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 21 Mar 2017 13:52:48 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A149010436844452510; Domain=.twitter.com; Path=/; Expires=Thu, 21-Mar-2019 13:52:48 UTC
+x-rate-limit-reset:
+    1490105069
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 24436600,
+    "id_str": "24436600",
+    "name": "Jason Houck",
+    "screen_name": "MJasonHouck",
+    "location": "Boone, NC",
+    "description": "I help you grow your business using Social Media Marketing. I love my family, travel and am passionate about helping you succeed. How can I help?",
+    "url": "https://t.co/hTq5kSvz9h",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/hTq5kSvz9h",
+            "expanded_url": "http://weighyourmind.com/consulting/",
+            "display_url": "weighyourmind.com/consulting/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 244450,
+    "friends_count": 166508,
+    "listed_count": 5990,
+    "created_at": "Sat Mar 14 21:53:21 +0000 2009",
+    "favourites_count": 252,
+    "utc_offset": -14400,
+    "time_zone": "America/New_York",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 239812,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Mar 21 12:50:06 +0000 2017",
+      "id": 844169245844033500,
+      "id_str": "844169245844033541",
+      "text": "Remind yourself that you are ready for and equal to anything that comes your way today. You can handle it! #inspiration",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "inspiration",
+            "indices": [
+              107,
+              119
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href="http://www.hootsuite.com" rel="nofollow">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/495066027/twitter.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/495066027/twitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1716262712/jason_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1716262712/jason_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24436600/1433683332",
+    "profile_link_color": "660000",
+    "profile_sidebar_border_color": "660000",
+    "profile_sidebar_fill_color": "0099FF",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  }
+]
